@@ -1,37 +1,54 @@
 class Solution {
     public long maximumSubarraySum(int[] nums, int k) {
-         int n = nums.length;
-        Map<Integer, Integer> h = new HashMap<>();
-        long windowSum = 0;
-        long maxSum = 0;
+        int n = nums.length;
+        HashMap<Integer, Integer> h = new HashMap<Integer, Integer>();
+        long windowSum=0;
+        long maxSum=0;
+        for(int i=0;i<k;i++) {
+            if(h.containsKey(nums[i])) {
+                Integer value = h.get(nums[i]);
+                h.put(nums[i], value+1);
+            }else{
+                h.put(nums[i], 1);
+            }
 
-        // Initialize first window
-        for (int i = 0; i < k; i++) {
-            h.put(nums[i], h.getOrDefault(nums[i], 0) + 1);
-            windowSum += nums[i];
+            windowSum = windowSum+nums[i];
+
         }
 
         if (h.size() == k) {
-            maxSum = windowSum;
+          maxSum=windowSum;
         }
 
-        // Slide the window
-        for (int i = k; i < n; i++) {
-            // Remove element going out of window
-            int out = nums[i - k];
-            h.put(out, h.get(out) - 1);
-            if (h.get(out) == 0) h.remove(out);
-            windowSum -= out;
+        for(int i=k;i<n;i++) {
+            //remove arr[k-i] from sum amd hashmap if freq =0
+            if(h.containsKey(nums[i-k])) {
+                Integer value = h.get(nums[i-k]);
+                h.put(nums[i-k], value-1);
+            }
+            if(h.get(nums[i-k]) == 0) {
+                //remove it from hash map
+                h.remove(nums[i-k]);
+            }
 
-            // Add new element
-            int in = nums[i];
-            h.put(in, h.getOrDefault(in, 0) + 1);
-            windowSum += in;
+            windowSum-=nums[i-k];
 
-            if (h.size() == k) {
-                maxSum = Math.max(maxSum, windowSum);
+            if(h.containsKey(nums[i])){
+                Integer value = h.get(nums[i]);
+                h.put(nums[i], value+1);
+            }else{
+                h.put(nums[i], 1);
+            }
+
+            windowSum+=nums[i];
+
+
+            if(h.size() == k) {
+                maxSum = Math.max(windowSum, maxSum);
+
             }
         }
-
+        
         return maxSum;
-}}
+    }
+}
