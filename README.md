@@ -7,6 +7,7 @@ Leetcode solutions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shruticode81/LeetCode/tree/master/0001-two-sum) |
+| [0056-merge-intervals](https://github.com/shruticode81/LeetCode/tree/master/0056-merge-intervals) |
 | [0136-single-number](https://github.com/shruticode81/LeetCode/tree/master/0136-single-number) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/shruticode81/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Bit Manipulation
@@ -22,4 +23,8 @@ Leetcode solutions
 |  |
 | ------- |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/shruticode81/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+## Sorting
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/shruticode81/LeetCode/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
