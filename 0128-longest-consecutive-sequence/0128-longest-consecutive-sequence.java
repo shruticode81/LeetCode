@@ -1,13 +1,23 @@
 class Solution {
     public int longestConsecutive(int[] nums) {
-        // int count=1; // assuming there will be consuctive integer
-        // int i=0;
-        // int j=1;
-        // int max=1;
-        // if(nums.length == 0) {
-        //     return 0;
-        // }
-        // Arrays.sort(nums);
+        int count=1; // assuming there will be consuctive integer
+        int i=0;
+        int j=1;
+        int max=1;
+        if(nums.length == 0) {
+            return 0;
+        }
+        Arrays.sort(nums);
+        for(int k=0;k<nums.length-1;k++) {
+            if(nums[k+1] - nums[k] == 1) {
+                count++;
+                max = Math.max(count, max);
+            }else if (nums[k+1] - nums[k] == 0) {
+                continue;
+            }else{
+                count=1;
+            }
+        }
         //  while (j<nums.length) {
         //     if (nums[j] - nums[i] == 1) {
         //         count++;
@@ -23,26 +33,6 @@ class Solution {
         //     j++;
         //  }
 
-        // return max;
-
- int count=1;
-        int max = 1;
-        if(nums.length==0){
-            return 0;
-        }
-        Arrays.sort(nums);
-        for (int k=0;k<nums.length-1;k++){
-            if(nums[k+1]-nums[k]==1){
-                count++;
-                max=Math.max(max,count);
-            }
-            else if(nums[k+1]-nums[k]==0){
-                continue;
-            }
-            else{
-                count=1;
-            }
-        }
         return max;
     }
 }
