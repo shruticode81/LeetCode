@@ -7,32 +7,37 @@ class Solution {
         if(nums.length == 0) {
             return 0;
         }
+        // [1,2,3,4,100,200] [1,1,2,3,6,8,9,10,11]
         Arrays.sort(nums);
-        for(int k=0;k<nums.length-1;k++) {
-            if(nums[k+1] - nums[k] == 1) {
+        
+         while (j<nums.length) {
+            if (nums[j] - nums[i] == 1) {
                 count++;
                 max = Math.max(count, max);
-            }else if (nums[k+1] - nums[k] == 0) {
+
+            } else if (nums[j]-nums[i] == 0) {
+                i++;
+                j++;
                 continue;
-            }else{
+            } 
+            else {
                 count=1;
             }
-        }
-        //  while (j<nums.length) {
-        //     if (nums[j] - nums[i] == 1) {
-        //         count++;
-        //         max = Math.max(count, max);
-
-        //     } else if (nums[j]-nums[i] == 0) {
-        //         continue;
-        //     } 
-        //     else {
-        //         count=1;
-        //     }
-        //     i++;
-        //     j++;
-        //  }
+            i++;
+            j++;
+         }
 
         return max;
     }
 }
+
+// for(int k=0;k<nums.length-1;k++) {
+//             if(nums[k+1] - nums[k] == 1) {
+//                 count++;
+//                 max = Math.max(count, max);
+//             }else if (nums[k+1] - nums[k] == 0) {
+//                 continue;
+//             }else{
+//                 count=1;
+//             }
+//         }
