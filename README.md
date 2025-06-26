@@ -7,6 +7,7 @@ Leetcode solutions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shruticode81/LeetCode/tree/master/0001-two-sum) |
+| [0031-next-permutation](https://github.com/shruticode81/LeetCode/tree/master/0031-next-permutation) |
 | [0056-merge-intervals](https://github.com/shruticode81/LeetCode/tree/master/0056-merge-intervals) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shruticode81/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/shruticode81/LeetCode/tree/master/0128-longest-consecutive-sequence) |
@@ -38,4 +39,8 @@ Leetcode solutions
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/shruticode81/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+## Two Pointers
+|  |
+| ------- |
+| [0031-next-permutation](https://github.com/shruticode81/LeetCode/tree/master/0031-next-permutation) |
 <!---LeetCode Topics End-->
