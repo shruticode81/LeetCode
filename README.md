@@ -10,6 +10,7 @@ Leetcode solutions
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shruticode81/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/shruticode81/LeetCode/tree/master/0031-next-permutation) |
 | [0056-merge-intervals](https://github.com/shruticode81/LeetCode/tree/master/0056-merge-intervals) |
+| [0078-subsets](https://github.com/shruticode81/LeetCode/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shruticode81/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/shruticode81/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/shruticode81/LeetCode/tree/master/0136-single-number) |
@@ -21,6 +22,7 @@ Leetcode solutions
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/shruticode81/LeetCode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/shruticode81/LeetCode/tree/master/0136-single-number) |
 ## Hash Table
 |  |
@@ -71,4 +73,8 @@ Leetcode solutions
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/shruticode81/LeetCode/tree/master/0169-majority-element) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/shruticode81/LeetCode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
