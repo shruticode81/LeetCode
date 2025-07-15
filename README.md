@@ -16,6 +16,7 @@ Leetcode solutions
 | [0136-single-number](https://github.com/shruticode81/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/shruticode81/LeetCode/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/shruticode81/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/shruticode81/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/shruticode81/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/shruticode81/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/shruticode81/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -41,6 +42,7 @@ Leetcode solutions
 | ------- |
 | [0056-merge-intervals](https://github.com/shruticode81/LeetCode/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/shruticode81/LeetCode/tree/master/0169-majority-element) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/shruticode81/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -54,6 +56,7 @@ Leetcode solutions
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shruticode81/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/shruticode81/LeetCode/tree/master/0031-next-permutation) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/shruticode81/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/shruticode81/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/shruticode81/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Prefix Sum
@@ -77,4 +80,8 @@ Leetcode solutions
 |  |
 | ------- |
 | [0078-subsets](https://github.com/shruticode81/LeetCode/tree/master/0078-subsets) |
+## Binary Search
+|  |
+| ------- |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/shruticode81/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 <!---LeetCode Topics End-->
