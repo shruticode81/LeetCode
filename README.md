@@ -49,6 +49,7 @@ Leetcode solutions
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shruticode81/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/shruticode81/LeetCode/tree/master/0392-is-subsequence) |
 ## Union Find
 |  |
 | ------- |
@@ -58,6 +59,7 @@ Leetcode solutions
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shruticode81/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/shruticode81/LeetCode/tree/master/0031-next-permutation) |
+| [0392-is-subsequence](https://github.com/shruticode81/LeetCode/tree/master/0392-is-subsequence) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/shruticode81/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/shruticode81/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/shruticode81/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -87,4 +89,8 @@ Leetcode solutions
 |  |
 | ------- |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/shruticode81/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+## String
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/shruticode81/LeetCode/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
