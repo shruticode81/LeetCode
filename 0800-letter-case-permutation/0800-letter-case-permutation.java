@@ -12,20 +12,31 @@ class Solution {
             return;
         }
 
-        int j=i;
-        while(j!=s.length() && Character.isDigit(s.charAt(j))){
-            opt=opt+Character.toString(s.charAt(j));
-            j++;
-        }
+    //     int j=i;
+    //     while(j!=s.length() && Character.isDigit(s.charAt(j))){
+    //         opt=opt+Character.toString(s.charAt(j));
+    //         j++;
+    //     }
     
-        if(j==s.length()){
-           resultP.add(opt);
-           return;
-        }
-       String opt1 = opt+Character.toString(Character.toLowerCase(s.charAt(j)));
-       String opt2 = opt+Character.toString(Character.toUpperCase(s.charAt(j)));
-        solveLetterCasePermutation(s, j+1, opt1, resultP);
-        solveLetterCasePermutation(s, j+1, opt2, resultP);
+    //     if(j==s.length()){
+    //        resultP.add(opt);
+    //        return;
+    //     }
+    //    String opt1 = opt+Character.toString(Character.toLowerCase(s.charAt(j)));
+    //    String opt2 = opt+Character.toString(Character.toUpperCase(s.charAt(j)));
+    //    solveLetterCasePermutation(s, j+1, opt1, resultP);
+    //    solveLetterCasePermutation(s, j+1, opt2, resultP);
+
+    char ch = s.charAt(i);
+    if(Character.isLetter(ch)){
+        // do recursive call
+       solveLetterCasePermutation(s, i+1, opt+Character.toLowerCase(ch), resultP);
+       solveLetterCasePermutation(s, i+1, opt+Character.toUpperCase(ch), resultP);
+    }else{
+        solveLetterCasePermutation(s, i+1, opt+ch, resultP);
+
+    }
 
     }
 }
+// "a12bc"
