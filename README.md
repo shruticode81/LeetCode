@@ -49,6 +49,7 @@ Leetcode solutions
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/shruticode81/LeetCode/tree/master/0022-generate-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shruticode81/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/shruticode81/LeetCode/tree/master/0392-is-subsequence) |
 ## Union Find
@@ -84,6 +85,7 @@ Leetcode solutions
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/shruticode81/LeetCode/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/shruticode81/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/shruticode81/LeetCode/tree/master/0090-subsets-ii) |
 | [0800-letter-case-permutation](https://github.com/shruticode81/LeetCode/tree/master/0800-letter-case-permutation) |
@@ -94,6 +96,7 @@ Leetcode solutions
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/shruticode81/LeetCode/tree/master/0022-generate-parentheses) |
 | [0392-is-subsequence](https://github.com/shruticode81/LeetCode/tree/master/0392-is-subsequence) |
 | [0800-letter-case-permutation](https://github.com/shruticode81/LeetCode/tree/master/0800-letter-case-permutation) |
 <!---LeetCode Topics End-->
