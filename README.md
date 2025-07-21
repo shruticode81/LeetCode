@@ -16,6 +16,7 @@ Leetcode solutions
 | [0128-longest-consecutive-sequence](https://github.com/shruticode81/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/shruticode81/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/shruticode81/LeetCode/tree/master/0169-majority-element) |
+| [0200-number-of-islands](https://github.com/shruticode81/LeetCode/tree/master/0200-number-of-islands) |
 | [0560-subarray-sum-equals-k](https://github.com/shruticode81/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/shruticode81/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/shruticode81/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -56,6 +57,7 @@ Leetcode solutions
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/shruticode81/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/shruticode81/LeetCode/tree/master/0200-number-of-islands) |
 ## Two Pointers
 |  |
 | ------- |
@@ -99,4 +101,16 @@ Leetcode solutions
 | [0022-generate-parentheses](https://github.com/shruticode81/LeetCode/tree/master/0022-generate-parentheses) |
 | [0392-is-subsequence](https://github.com/shruticode81/LeetCode/tree/master/0392-is-subsequence) |
 | [0800-letter-case-permutation](https://github.com/shruticode81/LeetCode/tree/master/0800-letter-case-permutation) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/shruticode81/LeetCode/tree/master/0200-number-of-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/shruticode81/LeetCode/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/shruticode81/LeetCode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
