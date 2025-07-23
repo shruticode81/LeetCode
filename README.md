@@ -8,6 +8,7 @@ Leetcode solutions
 | ------- |
 | [0001-two-sum](https://github.com/shruticode81/LeetCode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/shruticode81/LeetCode/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/shruticode81/LeetCode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shruticode81/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/shruticode81/LeetCode/tree/master/0031-next-permutation) |
 | [0056-merge-intervals](https://github.com/shruticode81/LeetCode/tree/master/0056-merge-intervals) |
@@ -46,6 +47,7 @@ Leetcode solutions
 |  |
 | ------- |
 | [0015-3sum](https://github.com/shruticode81/LeetCode/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/shruticode81/LeetCode/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/shruticode81/LeetCode/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/shruticode81/LeetCode/tree/master/0169-majority-element) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/shruticode81/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -64,6 +66,7 @@ Leetcode solutions
 |  |
 | ------- |
 | [0015-3sum](https://github.com/shruticode81/LeetCode/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/shruticode81/LeetCode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shruticode81/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/shruticode81/LeetCode/tree/master/0031-next-permutation) |
 | [0392-is-subsequence](https://github.com/shruticode81/LeetCode/tree/master/0392-is-subsequence) |
