@@ -11,6 +11,7 @@ Leetcode solutions
 | [0018-4sum](https://github.com/shruticode81/LeetCode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shruticode81/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/shruticode81/LeetCode/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/shruticode81/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/shruticode81/LeetCode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/shruticode81/LeetCode/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/shruticode81/LeetCode/tree/master/0073-set-matrix-zeroes) |
@@ -125,7 +126,12 @@ Leetcode solutions
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/shruticode81/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/shruticode81/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/shruticode81/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/shruticode81/LeetCode/tree/master/0200-number-of-islands) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/shruticode81/LeetCode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
