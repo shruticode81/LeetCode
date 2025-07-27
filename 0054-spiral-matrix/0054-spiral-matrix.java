@@ -7,8 +7,8 @@ class Solution {
         List<Integer> list = new ArrayList<>();
 
         while(sr<=er && sc<=ec){
-            for(int i=sc ;i<=ec;i++){
-                list.add(matrix[sc][i]);
+            for(int i=sr ;i<=ec;i++){
+                list.add(matrix[sr][i]);
             }
             sr ++;
             for(int i=sr;i<=er;i++){
