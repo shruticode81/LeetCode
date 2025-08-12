@@ -24,6 +24,7 @@ Leetcode solutions
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shruticode81/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/shruticode81/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/shruticode81/LeetCode/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/shruticode81/LeetCode/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/shruticode81/LeetCode/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/shruticode81/LeetCode/tree/master/0200-number-of-islands) |
 | [0560-subarray-sum-equals-k](https://github.com/shruticode81/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -44,6 +45,7 @@ Leetcode solutions
 | [0001-two-sum](https://github.com/shruticode81/LeetCode/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/shruticode81/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/shruticode81/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/shruticode81/LeetCode/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/shruticode81/LeetCode/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/shruticode81/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/shruticode81/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -66,6 +68,7 @@ Leetcode solutions
 | [0022-generate-parentheses](https://github.com/shruticode81/LeetCode/tree/master/0022-generate-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shruticode81/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/shruticode81/LeetCode/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/shruticode81/LeetCode/tree/master/0139-word-break) |
 | [0392-is-subsequence](https://github.com/shruticode81/LeetCode/tree/master/0392-is-subsequence) |
 ## Union Find
 |  |
@@ -122,6 +125,7 @@ Leetcode solutions
 | ------- |
 | [0022-generate-parentheses](https://github.com/shruticode81/LeetCode/tree/master/0022-generate-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/shruticode81/LeetCode/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/shruticode81/LeetCode/tree/master/0139-word-break) |
 | [0392-is-subsequence](https://github.com/shruticode81/LeetCode/tree/master/0392-is-subsequence) |
 | [0800-letter-case-permutation](https://github.com/shruticode81/LeetCode/tree/master/0800-letter-case-permutation) |
 ## Depth-First Search
@@ -143,4 +147,12 @@ Leetcode solutions
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/shruticode81/LeetCode/tree/master/0048-rotate-image) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/shruticode81/LeetCode/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/shruticode81/LeetCode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
