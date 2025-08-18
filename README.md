@@ -30,6 +30,7 @@ Leetcode solutions
 | [0200-number-of-islands](https://github.com/shruticode81/LeetCode/tree/master/0200-number-of-islands) |
 | [0455-assign-cookies](https://github.com/shruticode81/LeetCode/tree/master/0455-assign-cookies) |
 | [0560-subarray-sum-equals-k](https://github.com/shruticode81/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0890-lemonade-change](https://github.com/shruticode81/LeetCode/tree/master/0890-lemonade-change) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/shruticode81/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/shruticode81/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/shruticode81/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -164,4 +165,5 @@ Leetcode solutions
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/shruticode81/LeetCode/tree/master/0455-assign-cookies) |
+| [0890-lemonade-change](https://github.com/shruticode81/LeetCode/tree/master/0890-lemonade-change) |
 <!---LeetCode Topics End-->
