@@ -17,6 +17,7 @@ Leetcode solutions
 | [0048-rotate-image](https://github.com/shruticode81/LeetCode/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/shruticode81/LeetCode/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/shruticode81/LeetCode/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/shruticode81/LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/shruticode81/LeetCode/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/shruticode81/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/shruticode81/LeetCode/tree/master/0078-subsets) |
@@ -70,6 +71,7 @@ Leetcode solutions
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/shruticode81/LeetCode/tree/master/0022-generate-parentheses) |
+| [0055-jump-game](https://github.com/shruticode81/LeetCode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shruticode81/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/shruticode81/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/shruticode81/LeetCode/tree/master/0139-word-break) |
@@ -164,6 +166,7 @@ Leetcode solutions
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/shruticode81/LeetCode/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/shruticode81/LeetCode/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/shruticode81/LeetCode/tree/master/0890-lemonade-change) |
 <!---LeetCode Topics End-->
