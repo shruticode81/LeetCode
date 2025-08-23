@@ -13,6 +13,7 @@ Leetcode solutions
 | [0031-next-permutation](https://github.com/shruticode81/LeetCode/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/shruticode81/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/shruticode81/LeetCode/tree/master/0040-combination-sum-ii) |
+| [0045-jump-game-ii](https://github.com/shruticode81/LeetCode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/shruticode81/LeetCode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/shruticode81/LeetCode/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/shruticode81/LeetCode/tree/master/0051-n-queens) |
@@ -71,6 +72,7 @@ Leetcode solutions
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/shruticode81/LeetCode/tree/master/0022-generate-parentheses) |
+| [0045-jump-game-ii](https://github.com/shruticode81/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/shruticode81/LeetCode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shruticode81/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/shruticode81/LeetCode/tree/master/0131-palindrome-partitioning) |
@@ -166,6 +168,7 @@ Leetcode solutions
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/shruticode81/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/shruticode81/LeetCode/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/shruticode81/LeetCode/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/shruticode81/LeetCode/tree/master/0890-lemonade-change) |
