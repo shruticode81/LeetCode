@@ -78,6 +78,7 @@ Leetcode solutions
 | [0131-palindrome-partitioning](https://github.com/shruticode81/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/shruticode81/LeetCode/tree/master/0139-word-break) |
 | [0392-is-subsequence](https://github.com/shruticode81/LeetCode/tree/master/0392-is-subsequence) |
+| [0678-valid-parenthesis-string](https://github.com/shruticode81/LeetCode/tree/master/0678-valid-parenthesis-string) |
 ## Union Find
 |  |
 | ------- |
@@ -137,6 +138,7 @@ Leetcode solutions
 | [0131-palindrome-partitioning](https://github.com/shruticode81/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/shruticode81/LeetCode/tree/master/0139-word-break) |
 | [0392-is-subsequence](https://github.com/shruticode81/LeetCode/tree/master/0392-is-subsequence) |
+| [0678-valid-parenthesis-string](https://github.com/shruticode81/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0800-letter-case-permutation](https://github.com/shruticode81/LeetCode/tree/master/0800-letter-case-permutation) |
 ## Depth-First Search
 |  |
@@ -171,5 +173,10 @@ Leetcode solutions
 | [0045-jump-game-ii](https://github.com/shruticode81/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/shruticode81/LeetCode/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/shruticode81/LeetCode/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/shruticode81/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0890-lemonade-change](https://github.com/shruticode81/LeetCode/tree/master/0890-lemonade-change) |
+## Stack
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/shruticode81/LeetCode/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
