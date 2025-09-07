@@ -26,6 +26,7 @@ Leetcode solutions
 | [0078-subsets](https://github.com/shruticode81/LeetCode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/shruticode81/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/shruticode81/LeetCode/tree/master/0090-subsets-ii) |
+| [0120-triangle](https://github.com/shruticode81/LeetCode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shruticode81/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/shruticode81/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/shruticode81/LeetCode/tree/master/0135-candy) |
@@ -83,6 +84,7 @@ Leetcode solutions
 | [0062-unique-paths](https://github.com/shruticode81/LeetCode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/shruticode81/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/shruticode81/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0120-triangle](https://github.com/shruticode81/LeetCode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shruticode81/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/shruticode81/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/shruticode81/LeetCode/tree/master/0139-word-break) |
