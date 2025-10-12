@@ -20,25 +20,34 @@ class Solution {
         int count=0;
         for(int i=0;i<v;i++){
             if(visited[i] == false){
-                bfs(i,adjList,visited);
+                // bfs(i,adjList,visited);
+                dfs(i, adjList,visited);
                 count++;
             }
         }
         return count;
     }
-    void bfs(int sv, ArrayList<ArrayList<Integer>> adjList, boolean visited[]){
+    void dfs(int sv, ArrayList<ArrayList<Integer>> adj, boolean[] visited){
         visited[sv]=true;
-        Queue<Integer> q = new LinkedList<Integer>();
-        q.add(sv);
-        while(!q.isEmpty()){
-            int u = q.poll();
-            for(int v: adjList.get(u)){
-                if(visited[v] == false){
-                    visited[v]=true;
-                    q.add(v);
-                }
+        for(int v:adj.get(sv)){
+            if(visited[v] == false){
+                dfs(v, adj,visited);
             }
-
         }
     }
+    // void bfs(int sv, ArrayList<ArrayList<Integer>> adjList, boolean visited[]){
+    //     visited[sv]=true;
+    //     Queue<Integer> q = new LinkedList<Integer>();
+    //     q.add(sv);
+    //     while(!q.isEmpty()){
+    //         int u = q.poll();
+    //         for(int v: adjList.get(u)){
+    //             if(visited[v] == false){
+    //                 visited[v]=true;
+    //                 q.add(v);
+    //             }
+    //         }
+
+    //     }
+    // }
 }
