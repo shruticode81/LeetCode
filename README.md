@@ -43,6 +43,7 @@ Leetcode solutions
 | [0747-min-cost-climbing-stairs](https://github.com/shruticode81/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0890-lemonade-change](https://github.com/shruticode81/LeetCode/tree/master/0890-lemonade-change) |
 | [0967-minimum-falling-path-sum](https://github.com/shruticode81/LeetCode/tree/master/0967-minimum-falling-path-sum) |
+| [1036-rotting-oranges](https://github.com/shruticode81/LeetCode/tree/master/1036-rotting-oranges) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/shruticode81/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/shruticode81/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/shruticode81/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -172,6 +173,7 @@ Leetcode solutions
 | ------- |
 | [0200-number-of-islands](https://github.com/shruticode81/LeetCode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/shruticode81/LeetCode/tree/master/0547-number-of-provinces) |
+| [1036-rotting-oranges](https://github.com/shruticode81/LeetCode/tree/master/1036-rotting-oranges) |
 ## Matrix
 |  |
 | ------- |
@@ -182,6 +184,7 @@ Leetcode solutions
 | [0073-set-matrix-zeroes](https://github.com/shruticode81/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/shruticode81/LeetCode/tree/master/0200-number-of-islands) |
 | [0967-minimum-falling-path-sum](https://github.com/shruticode81/LeetCode/tree/master/0967-minimum-falling-path-sum) |
+| [1036-rotting-oranges](https://github.com/shruticode81/LeetCode/tree/master/1036-rotting-oranges) |
 ## Math
 |  |
 | ------- |
