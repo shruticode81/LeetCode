@@ -104,6 +104,7 @@ Leetcode solutions
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/shruticode81/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/shruticode81/LeetCode/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/shruticode81/LeetCode/tree/master/0547-number-of-provinces) |
 ## Two Pointers
 |  |
 | ------- |
@@ -165,10 +166,12 @@ Leetcode solutions
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/shruticode81/LeetCode/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/shruticode81/LeetCode/tree/master/0547-number-of-provinces) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/shruticode81/LeetCode/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/shruticode81/LeetCode/tree/master/0547-number-of-provinces) |
 ## Matrix
 |  |
 | ------- |
@@ -210,4 +213,8 @@ Leetcode solutions
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/shruticode81/LeetCode/tree/master/0062-unique-paths) |
+## Graph
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/shruticode81/LeetCode/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
