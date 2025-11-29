@@ -169,12 +169,14 @@ Leetcode solutions
 ## Depth-First Search
 |  |
 | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/shruticode81/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/shruticode81/LeetCode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/shruticode81/LeetCode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/shruticode81/LeetCode/tree/master/0733-flood-fill) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/shruticode81/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/shruticode81/LeetCode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/shruticode81/LeetCode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/shruticode81/LeetCode/tree/master/0733-flood-fill) |
@@ -227,4 +229,12 @@ Leetcode solutions
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/shruticode81/LeetCode/tree/master/0547-number-of-provinces) |
+## Tree
+|  |
+| ------- |
+| [0199-binary-tree-right-side-view](https://github.com/shruticode81/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+## Binary Tree
+|  |
+| ------- |
+| [0199-binary-tree-right-side-view](https://github.com/shruticode81/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 <!---LeetCode Topics End-->
