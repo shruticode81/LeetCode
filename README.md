@@ -44,6 +44,7 @@ Leetcode solutions
 | [0733-flood-fill](https://github.com/shruticode81/LeetCode/tree/master/0733-flood-fill) |
 | [0747-min-cost-climbing-stairs](https://github.com/shruticode81/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0890-lemonade-change](https://github.com/shruticode81/LeetCode/tree/master/0890-lemonade-change) |
+| [0904-fruit-into-baskets](https://github.com/shruticode81/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0967-minimum-falling-path-sum](https://github.com/shruticode81/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/shruticode81/LeetCode/tree/master/1036-rotting-oranges) |
 | [1248-count-number-of-nice-subarrays](https://github.com/shruticode81/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -67,11 +68,13 @@ Leetcode solutions
 | [0139-word-break](https://github.com/shruticode81/LeetCode/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/shruticode81/LeetCode/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/shruticode81/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0904-fruit-into-baskets](https://github.com/shruticode81/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1248-count-number-of-nice-subarrays](https://github.com/shruticode81/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/shruticode81/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Sliding Window
 |  |
 | ------- |
+| [0904-fruit-into-baskets](https://github.com/shruticode81/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1248-count-number-of-nice-subarrays](https://github.com/shruticode81/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/shruticode81/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Sorting
