@@ -7,10 +7,9 @@ class Solution {
             if(nums[i] == target){
                 if(first == -1){
                     first=i;
-                    last=i;
-                }else{
-                    last=i;
                 }
+                    last=i;
+                
             }
         }
         return new int[]{first,last};
