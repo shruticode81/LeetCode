@@ -27,6 +27,7 @@ Leetcode solutions
 | [0064-minimum-path-sum](https://github.com/shruticode81/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/shruticode81/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/shruticode81/LeetCode/tree/master/0078-subsets) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/shruticode81/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/shruticode81/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/shruticode81/LeetCode/tree/master/0090-subsets-ii) |
 | [0120-triangle](https://github.com/shruticode81/LeetCode/tree/master/0120-triangle) |
@@ -167,6 +168,7 @@ Leetcode solutions
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/shruticode81/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shruticode81/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/shruticode81/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/shruticode81/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## String
 |  |
