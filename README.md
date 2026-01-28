@@ -44,6 +44,7 @@ Leetcode solutions
 | [0416-partition-equal-subset-sum](https://github.com/shruticode81/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/shruticode81/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/shruticode81/LeetCode/tree/master/0455-assign-cookies) |
+| [0540-single-element-in-a-sorted-array](https://github.com/shruticode81/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/shruticode81/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0733-flood-fill](https://github.com/shruticode81/LeetCode/tree/master/0733-flood-fill) |
 | [0747-min-cost-climbing-stairs](https://github.com/shruticode81/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
@@ -171,6 +172,7 @@ Leetcode solutions
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shruticode81/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/shruticode81/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shruticode81/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0540-single-element-in-a-sorted-array](https://github.com/shruticode81/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/shruticode81/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## String
 |  |
