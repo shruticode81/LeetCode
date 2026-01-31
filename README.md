@@ -54,6 +54,7 @@ Leetcode solutions
 | [1036-rotting-oranges](https://github.com/shruticode81/LeetCode/tree/master/1036-rotting-oranges) |
 | [1248-count-number-of-nice-subarrays](https://github.com/shruticode81/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/shruticode81/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/shruticode81/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/shruticode81/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/shruticode81/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/shruticode81/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
