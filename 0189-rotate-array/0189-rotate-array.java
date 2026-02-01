@@ -3,6 +3,7 @@ class Solution {
         // for right rotation, we are moving left ele to right
         // B[i]=A[(i-x+n)%n]
         int n = nums.length;
+        k = k%n;
         int[] res = new int[n];
         for(int i=0;i<n;i++){
             res[i] = nums[(i-k%n+n)%n];
