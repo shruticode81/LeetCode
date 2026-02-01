@@ -38,6 +38,7 @@ Leetcode solutions
 | [0139-word-break](https://github.com/shruticode81/LeetCode/tree/master/0139-word-break) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shruticode81/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/shruticode81/LeetCode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/shruticode81/LeetCode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/shruticode81/LeetCode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/shruticode81/LeetCode/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/shruticode81/LeetCode/tree/master/0238-product-of-array-except-self) |
@@ -129,6 +130,7 @@ Leetcode solutions
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shruticode81/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/shruticode81/LeetCode/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/shruticode81/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/shruticode81/LeetCode/tree/master/0189-rotate-array) |
 | [0392-is-subsequence](https://github.com/shruticode81/LeetCode/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/shruticode81/LeetCode/tree/master/0455-assign-cookies) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/shruticode81/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -216,6 +218,7 @@ Leetcode solutions
 | ------- |
 | [0048-rotate-image](https://github.com/shruticode81/LeetCode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/shruticode81/LeetCode/tree/master/0062-unique-paths) |
+| [0189-rotate-array](https://github.com/shruticode81/LeetCode/tree/master/0189-rotate-array) |
 | [1248-count-number-of-nice-subarrays](https://github.com/shruticode81/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 ## Trie
 |  |
