@@ -54,6 +54,7 @@ Leetcode solutions
 | [0967-minimum-falling-path-sum](https://github.com/shruticode81/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1002-find-common-characters](https://github.com/shruticode81/LeetCode/tree/master/1002-find-common-characters) |
 | [1036-rotting-oranges](https://github.com/shruticode81/LeetCode/tree/master/1036-rotting-oranges) |
+| [1122-relative-sort-array](https://github.com/shruticode81/LeetCode/tree/master/1122-relative-sort-array) |
 | [1248-count-number-of-nice-subarrays](https://github.com/shruticode81/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/shruticode81/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/shruticode81/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -78,6 +79,7 @@ Leetcode solutions
 | [0560-subarray-sum-equals-k](https://github.com/shruticode81/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/shruticode81/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1002-find-common-characters](https://github.com/shruticode81/LeetCode/tree/master/1002-find-common-characters) |
+| [1122-relative-sort-array](https://github.com/shruticode81/LeetCode/tree/master/1122-relative-sort-array) |
 | [1248-count-number-of-nice-subarrays](https://github.com/shruticode81/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/shruticode81/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Sliding Window
@@ -96,6 +98,7 @@ Leetcode solutions
 | [0169-majority-element](https://github.com/shruticode81/LeetCode/tree/master/0169-majority-element) |
 | [0435-non-overlapping-intervals](https://github.com/shruticode81/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/shruticode81/LeetCode/tree/master/0455-assign-cookies) |
+| [1122-relative-sort-array](https://github.com/shruticode81/LeetCode/tree/master/1122-relative-sort-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/shruticode81/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Dynamic Programming
 |  |
@@ -262,4 +265,8 @@ Leetcode solutions
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/shruticode81/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+## Counting Sort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/shruticode81/LeetCode/tree/master/1122-relative-sort-array) |
 <!---LeetCode Topics End-->
