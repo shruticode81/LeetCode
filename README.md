@@ -52,6 +52,7 @@ Leetcode solutions
 | [0890-lemonade-change](https://github.com/shruticode81/LeetCode/tree/master/0890-lemonade-change) |
 | [0904-fruit-into-baskets](https://github.com/shruticode81/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0967-minimum-falling-path-sum](https://github.com/shruticode81/LeetCode/tree/master/0967-minimum-falling-path-sum) |
+| [1002-find-common-characters](https://github.com/shruticode81/LeetCode/tree/master/1002-find-common-characters) |
 | [1036-rotting-oranges](https://github.com/shruticode81/LeetCode/tree/master/1036-rotting-oranges) |
 | [1248-count-number-of-nice-subarrays](https://github.com/shruticode81/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/shruticode81/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -76,6 +77,7 @@ Leetcode solutions
 | [0169-majority-element](https://github.com/shruticode81/LeetCode/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/shruticode81/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/shruticode81/LeetCode/tree/master/0904-fruit-into-baskets) |
+| [1002-find-common-characters](https://github.com/shruticode81/LeetCode/tree/master/1002-find-common-characters) |
 | [1248-count-number-of-nice-subarrays](https://github.com/shruticode81/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/shruticode81/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Sliding Window
@@ -186,6 +188,7 @@ Leetcode solutions
 | [0392-is-subsequence](https://github.com/shruticode81/LeetCode/tree/master/0392-is-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/shruticode81/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0800-letter-case-permutation](https://github.com/shruticode81/LeetCode/tree/master/0800-letter-case-permutation) |
+| [1002-find-common-characters](https://github.com/shruticode81/LeetCode/tree/master/1002-find-common-characters) |
 ## Depth-First Search
 |  |
 | ------- |
