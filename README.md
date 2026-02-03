@@ -56,6 +56,7 @@ Leetcode solutions
 | [0977-squares-of-a-sorted-array](https://github.com/shruticode81/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1002-find-common-characters](https://github.com/shruticode81/LeetCode/tree/master/1002-find-common-characters) |
 | [1036-rotting-oranges](https://github.com/shruticode81/LeetCode/tree/master/1036-rotting-oranges) |
+| [1051-height-checker](https://github.com/shruticode81/LeetCode/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/shruticode81/LeetCode/tree/master/1122-relative-sort-array) |
 | [1248-count-number-of-nice-subarrays](https://github.com/shruticode81/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/shruticode81/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -101,6 +102,7 @@ Leetcode solutions
 | [0435-non-overlapping-intervals](https://github.com/shruticode81/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/shruticode81/LeetCode/tree/master/0455-assign-cookies) |
 | [0977-squares-of-a-sorted-array](https://github.com/shruticode81/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/shruticode81/LeetCode/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/shruticode81/LeetCode/tree/master/1122-relative-sort-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/shruticode81/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Dynamic Programming
@@ -274,5 +276,6 @@ Leetcode solutions
 ## Counting Sort
 |  |
 | ------- |
+| [1051-height-checker](https://github.com/shruticode81/LeetCode/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/shruticode81/LeetCode/tree/master/1122-relative-sort-array) |
 <!---LeetCode Topics End-->
