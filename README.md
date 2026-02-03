@@ -20,6 +20,7 @@ Leetcode solutions
 | [0046-permutations](https://github.com/shruticode81/LeetCode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/shruticode81/LeetCode/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/shruticode81/LeetCode/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/shruticode81/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/shruticode81/LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/shruticode81/LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/shruticode81/LeetCode/tree/master/0056-merge-intervals) |
@@ -105,6 +106,7 @@ Leetcode solutions
 | ------- |
 | [0022-generate-parentheses](https://github.com/shruticode81/LeetCode/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/shruticode81/LeetCode/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/shruticode81/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/shruticode81/LeetCode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/shruticode81/LeetCode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/shruticode81/LeetCode/tree/master/0063-unique-paths-ii) |
@@ -156,6 +158,7 @@ Leetcode solutions
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/shruticode81/LeetCode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/shruticode81/LeetCode/tree/master/0169-majority-element) |
 ## Counting
 |  |
