@@ -53,6 +53,7 @@ Leetcode solutions
 | [0890-lemonade-change](https://github.com/shruticode81/LeetCode/tree/master/0890-lemonade-change) |
 | [0904-fruit-into-baskets](https://github.com/shruticode81/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0967-minimum-falling-path-sum](https://github.com/shruticode81/LeetCode/tree/master/0967-minimum-falling-path-sum) |
+| [0977-squares-of-a-sorted-array](https://github.com/shruticode81/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1002-find-common-characters](https://github.com/shruticode81/LeetCode/tree/master/1002-find-common-characters) |
 | [1036-rotting-oranges](https://github.com/shruticode81/LeetCode/tree/master/1036-rotting-oranges) |
 | [1122-relative-sort-array](https://github.com/shruticode81/LeetCode/tree/master/1122-relative-sort-array) |
@@ -99,6 +100,7 @@ Leetcode solutions
 | [0169-majority-element](https://github.com/shruticode81/LeetCode/tree/master/0169-majority-element) |
 | [0435-non-overlapping-intervals](https://github.com/shruticode81/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/shruticode81/LeetCode/tree/master/0455-assign-cookies) |
+| [0977-squares-of-a-sorted-array](https://github.com/shruticode81/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1122-relative-sort-array](https://github.com/shruticode81/LeetCode/tree/master/1122-relative-sort-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/shruticode81/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Dynamic Programming
@@ -140,6 +142,7 @@ Leetcode solutions
 | [0189-rotate-array](https://github.com/shruticode81/LeetCode/tree/master/0189-rotate-array) |
 | [0392-is-subsequence](https://github.com/shruticode81/LeetCode/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/shruticode81/LeetCode/tree/master/0455-assign-cookies) |
+| [0977-squares-of-a-sorted-array](https://github.com/shruticode81/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/shruticode81/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/shruticode81/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/shruticode81/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
