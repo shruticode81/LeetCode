@@ -56,6 +56,7 @@ Leetcode solutions
 | [0967-minimum-falling-path-sum](https://github.com/shruticode81/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/shruticode81/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1002-find-common-characters](https://github.com/shruticode81/LeetCode/tree/master/1002-find-common-characters) |
+| [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/shruticode81/LeetCode/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1036-rotting-oranges](https://github.com/shruticode81/LeetCode/tree/master/1036-rotting-oranges) |
 | [1051-height-checker](https://github.com/shruticode81/LeetCode/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/shruticode81/LeetCode/tree/master/1122-relative-sort-array) |
@@ -83,6 +84,7 @@ Leetcode solutions
 | [0560-subarray-sum-equals-k](https://github.com/shruticode81/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/shruticode81/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1002-find-common-characters](https://github.com/shruticode81/LeetCode/tree/master/1002-find-common-characters) |
+| [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/shruticode81/LeetCode/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1122-relative-sort-array](https://github.com/shruticode81/LeetCode/tree/master/1122-relative-sort-array) |
 | [1248-count-number-of-nice-subarrays](https://github.com/shruticode81/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/shruticode81/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -171,6 +173,7 @@ Leetcode solutions
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/shruticode81/LeetCode/tree/master/0169-majority-element) |
+| [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/shruticode81/LeetCode/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 ## Backtracking
 |  |
 | ------- |
